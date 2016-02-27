@@ -1,0 +1,20 @@
+yw1370
+*   a3c462b Master Merge branch 'branch1' 9th commit(4th merge)
+|\  
+| *   0952288 Merge branch 'master' into branch1 7th commit(2nd merge)
+| |\  
+| * | 7cfe8de 6th commit(2nd on branch1).
+* | |   75a1b09 Master Merge branch 'branch2' 8th commit(3rd merge)
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 876bb86 4th commit(1st on branch2).
+* | |   273d4c4 Master Merge branch 'branch1' 5th commit(1st merge)
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 17f514e 2nd commit(1st on branch1).
+* | 081a6d7 3rd commit(2nd on master).
+|/  
+* bad897a 1st commit(1st on master).
